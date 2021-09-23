@@ -34,4 +34,4 @@ All of those secrets are required for the script to work, if you forget to add o
 
 11) Enjoy!
 
-### Please note that the duration of the runners in GitHub Actions is for 6 hours, so, the RDP machine lasts 6 hoursx
+### Please note that the duration of the runners in GitHub Actions is for 6 hours, so, the RDP machine lasts 6 hoursxd
